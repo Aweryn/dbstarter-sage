@@ -1,0 +1,15 @@
+/** Config */
+@import 'config/variables';
+@import 'config/external';
+
+// @tailwind preflight;
+// @tailwind components;
+
+/** Common */
+@import 'common/global';
+
+/** Components */
+@import 'components';
+
+/** Partials */
+@import 'partials/header';
